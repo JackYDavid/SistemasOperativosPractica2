@@ -1,1 +1,1 @@
-# SistemasOperativosPractica2
+Práctica Realizada por David Pérez y Jacobo de Cos
